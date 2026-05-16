@@ -1,0 +1,20 @@
+# Google Antigravity / Gemini
+45.155.204.190 antigravity.google
+45.155.204.190 generativelanguage.googleapis.com
+45.155.204.190 gemini.google.com
+45.155.204.190 gemini.google
+45.155.204.190 aistudio.google.com
+45.155.204.190 ai.google.dev
+45.155.204.190 aisandbox-pa.googleapis.com
+45.155.204.190 alkalimakersuite-pa.clients6.google.com
+45.155.204.190 webchannel-alkalimakersuite-pa.clients6.google.com
+45.155.204.190 assistant-s3-pa.googleapis.com
+45.155.204.190 proactivebackend-pa.googleapis.com
+45.155.204.190 robinfrontend-pa.googleapis.com
+45.155.204.190 waa-pa.clients6.google.com
+45.155.204.190 signaler-pa.clients6.google.com
+45.155.204.190 labs.google
+45.155.204.190 labs.google.com
+45.155.204.190 jules.google
+45.155.204.190 jules.google.com
+45.155.204.190 o.pki.goog
